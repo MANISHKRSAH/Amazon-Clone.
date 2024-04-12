@@ -1,2 +1,4 @@
 # Amazon-Clone.
-Amazon clone by HTML and CSS.
+
+https://manishkrsah.github.io/Amazon-Clone./
+
